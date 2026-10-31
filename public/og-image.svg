@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#10120f"/>
+  <circle cx="1010" cy="145" r="220" fill="#c4f36b" opacity=".08"/>
+  <circle cx="1050" cy="525" r="210" fill="#c4f36b" opacity=".05"/>
+  <text x="100" y="185" fill="#c4f36b" font-family="monospace" font-size="24">PORTFOLIO / 2026</text>
+  <text x="94" y="335" fill="#f3f4ef" font-family="Arial,sans-serif" font-size="112" font-weight="700">R Nallakannu</text>
+  <text x="100" y="414" fill="#a2a69b" font-family="Arial,sans-serif" font-size="36">Computer Science Engineer · Aspiring Software Developer</text>
+  <rect x="100" y="475" width="235" height="3" rx="2" fill="#c4f36b"/>
+</svg>
