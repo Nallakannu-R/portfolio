@@ -59,10 +59,10 @@ export const projects = [
   },
   {
     number: '02',
-    name: 'PropertyDocs',
-    subtitle: 'Property document management · In progress',
+    name: 'DocTech',
+    subtitle: 'Real Estate Document Management Platform',
     description:
-      'An ongoing property app for managing and generating real estate documents, designed to simplify property paperwork for brokers and users.',
+      'A web-based real estate platform where property agents can log in and request documentation, while property owners review requests, generate property-related documents, and manage approvals and sharing through a centralised dashboard.',
     technologies: ['React', 'TypeScript', 'Node.js', 'Express', 'MongoDB'],
     type: 'documents',
     status: 'In progress',
@@ -74,7 +74,7 @@ export const projects = [
     name: 'Digital Wellbeing AI Agents',
     subtitle: 'Screen-time & gaming insights · Building',
     description:
-      'An early-stage Tamil Nadu project exploring AI agents that identify prolonged screen-time and gaming patterns people sometimes call “brain rot.” It aims to encourage healthier digital habits, not diagnose or label anyone.',
+      'An upcoming AI-powered digital wellbeing application that helps users manage excessive smartphone usage. Users set app-specific time limits and receive reminders when limits are reached. If ignored, personalised motivational audio recorded in their own voice encourages them to take a break and build healthier digital habits.',
     technologies: ['AI agents', 'Screen-time insights', 'Gaming patterns', 'Tamil Nadu, India'],
     type: 'agents',
     status: 'Building',
